@@ -1,5 +1,5 @@
 # Report_to_myboss
-Display my on-call shifts on the E-Ink screen that controlled by RPi0
+Check my Pagerduty on-call schedule and display the next 5 days' shifts on the E-Ink screen that controlled by RPi0
 
 <img width="1509" alt="image" src="https://github.com/su27k-2003/Report_to_myboss/assets/20917648/931fa244-e3bd-4ec9-bb5f-0fb1dbf5f445">
 
